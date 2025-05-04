@@ -1,4 +1,4 @@
-> **Note for Examiners**: To view this file in Markdown Preview mode in Visual Studio Code:
+> **Note**: To view this file in Markdown Preview mode in Visual Studio Code:
 >
 > - Press `Ctrl+Shift+V` (Windows/Linux) or `Cmd+Shift+V` (Mac).
 > - Alternatively, right-click the file tab and select **Open Preview**.
