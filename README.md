@@ -9,7 +9,7 @@
 
 ### ⚠️ Data Responsibility Disclaimer
 
-By using this application, you acknowledge and accept that any text or image data submitted for translation or OCR — whether directly typed or captured via screen selection tools — may be transmitted to third-party services including Google Translate, Google Vision API, and DeepL API, depending on your selected configuration.
+By using this application, you acknowledge and accept that any text or image data submitted for translation or OCR, whether directly typed or captured via screen selection tools, may be transmitted to third-party services including Google Translate, Google Vision API, and DeepL API, depending on your selected configuration.
 
 It is your sole responsibility to ensure that no confidential, sensitive, or personal data is sent to these external services. The developers of this application do not store or process your data and assume no liability for how third-party APIs handle submitted content.
 
